@@ -19,7 +19,7 @@ jobs:
       with:
         ref: main
     - name: test pwd
-      run: echo "${pwd}"
+      run: echo $(pwd)
 
     # Step 2: run this sync action - specify the upstream repo, upstream branch to sync with, and target sync branch
     #- name: Pull upstream changes
