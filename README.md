@@ -1,16 +1,17 @@
-# 中文简体 | [English](https://github.com/DHDAXCW/NanoPi-R2S-2021/blob/main/EngLish.md)
+# 项目Fork自[骷髅头](https://github.com/DHDAXCW/NanoPi-R2S-2021)
+
+# 中文简体 | [English](https://github.com/HalfCoke/NanoPi-R2S-2021/blob/main/EngLish.md)
 # NanoPi-R2S-2021 每天自动更新插件和内核版本。
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
 ## 强烈推荐三星TF卡\海康TF卡。哪怕是很难刷上的固件，只有三星刷上可以开机。
 ### 默认编译 
 - 用户名：root 密码：password 管理IP：192.168.2.1
-- 固件下载：https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
+- 固件下载：https://github.com/HalfCoke/NanoPi-R2S-2021/releases
 - x86_64固件下载 https://github.com/DHDAXCW/lede/releases
-- 风扇链接 [点击进入](https://s.click.taobao.com/t?e=m%3D2%26s%3Dd8Ack0Lbx8McQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMXpyNmcFd6mT8sviUM61dt2T0mcOGN1M6FAj1gqltKaEfKzCcEr0EW0YuhTK3FPxiHMT7yc3NZrQKSOkJV8harV3phaPbavinqGCwVfdcN0wcSpj5qSCmbA%3D)
 ### - beta：全插件
 ### - stable：稳定精简
 ### - docker：docker
-- 电报群：https://t.me/DHDAXCW
+- 电报群：https://t.me/halfwrt
 ### 该升级支持4G版，1G版
 - 多版本在里面，自己选 👇
 ```
@@ -25,8 +26,6 @@ wget https://raw.githubusercontent.com/lone-wind/scripts/main/onlineupdate.sh &&
  - 同时兼容r2c设备
 ### 更新日志 10.22
 - 为了节省打包时间，将docker版全插件，改为精简稳定docker版
-# [赏个鸡腿吧](https://afdian.net/@dhdaxcw/plan)
-### https://afdian.net/@dhdaxcw/plan
 
 ## 鸣谢
 

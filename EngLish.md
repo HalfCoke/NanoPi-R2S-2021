@@ -1,18 +1,15 @@
-# English | [中文简体](https://github.com/DHDAXCW/NanoPi-R2S-2021/blob/main/README.md)
+# English | [中文简体](https://github.com/HalfCoke/NanoPi-R2S-2021/blob/main/README.md)
 # NanoPi-R2S-2021 The plug-in and kernel version are automatically updated every day.
 ## 👉Before using this firmware, please strictly abide by the laws and regulations related to the use of the Internet in the country, and do not violate the laws and regulations of the country! 👈
 ## Samsung TF card\Haikang TF card is strongly recommended. Even if the firmware is difficult to flash, only Samsung flashes it to boot.
 This month I have been begging without a computer (please be in the computer~). . .
 ### Default compilation
 -Username: root Password: password Management IP: 192.168.2.1
--x86_64 firmware download https://github.com/DHDAXCW/lede/releases
+-x86_64 firmware download https://github.com/HalfCoke/lede/releases
 ###-beta: Gao Daquan
 ###-stable: stable and streamlined
 ###-WANLAN: Interchange Gao Daquan
--Telegram group: https://t.me/DHDAXCW
-# Enjoy a chicken drumstick
- ![Donation](data/2.jpg?raw=true "Title")
-### If you think this project is helpful to you, you can donate to us to encourage the sustainable development and perfection of the project
+-Telegram group: https://t.me/halfwrt
 # Plugin display
  ![Plugin display](data/20.jpg?raw=true "Title")
 ## Tips
