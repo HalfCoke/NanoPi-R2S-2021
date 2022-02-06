@@ -3,8 +3,8 @@ name: NanoPi R2S stable FusionWRT
 on:
   repository_dispatch:
   workflow_dispatch:
-  schedule:
-    - cron: 40 18 * * *
+  # schedule:
+  #  - cron: 40 18 * * *
   # watch:
   #   types: started
 
